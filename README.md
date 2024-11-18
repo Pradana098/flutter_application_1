@@ -1,3 +1,7 @@
+NAMA: DIMAS JANUAR PRADANA
+KELAS :2A TRPL
+NIM : 362358302077
+
 TUGAS PRAKTIKUM
 
 ![Monitoring Kehadiran Siswa - Google Chrome 18_11_2024 10 52 07 (1)](https://github.com/user-attachments/assets/efa2ddac-e175-40ea-b800-6fb030672f9c)
