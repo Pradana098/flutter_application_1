@@ -1,16 +1,6 @@
-# flutter_application_1
+TUGAS PRAKTIKUM
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Monitoring Kehadiran Siswa - Google Chrome 18_11_2024 10 52 07 (1)](https://github.com/user-attachments/assets/efa2ddac-e175-40ea-b800-6fb030672f9c)
+![Monitoring Kehadiran Siswa - Google Chrome 18_11_2024 10 52 00](https://github.com/user-attachments/assets/62430dea-c7bc-48f9-85ef-deb6d82c87f3)
+![Monitoring Kehadiran Siswa - Google Chrome 18_11_2024 10 51 53](https://github.com/user-attachments/assets/4facb58b-8bf3-49ca-92b0-101f7ed61cf1)
+![Monitoring Kehadiran Siswa - Google Chrome 18_11_2024 10 51 39](https://github.com/user-attachments/assets/85ebcd4d-31d5-488e-b15f-2d0a835f9671)
